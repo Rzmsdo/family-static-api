@@ -1,5 +1,6 @@
 """
 This module takes care of starting the API Server, Loading the DB and Adding the endpoints
+# hay 6 errores segun el test pero no los encuentro.
 """
 import os
 from flask import Flask, request, jsonify, url_for
